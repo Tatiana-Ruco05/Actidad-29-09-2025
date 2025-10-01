@@ -46,3 +46,5 @@ columnas.forEach(columna => {
     }
   });
 });
+
+// se toma referencia del ejercicio visto en la guia para desarrollar el ejercicio pedido
